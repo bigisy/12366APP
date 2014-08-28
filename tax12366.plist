@@ -17,15 +17,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sy.tax12366</string>
+				<string>st.cm.tax12366</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>tax12366</string>
+				<string></string>
 				<key>title</key>
-				<string>tax12366</string>
+				<string>国税掌上通</string>
 			</dict>
 		</dict>
 	</array>
